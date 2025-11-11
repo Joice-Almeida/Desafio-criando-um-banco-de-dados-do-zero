@@ -39,5 +39,8 @@ O projeto deverá ser adicionado a um repositório do Github para futura avalia�
 ### Modelo Lógico oficina
 
 
-[modelo logico oficina](.notebook/assets/images/modelo_logico_oficina.jpg)
+
+![Descrição](.notebook/assets/images/modelo_logico_oficina.jpg)
+
+[clique aqui para ver mais detalhes](modelo_logico_oficina)
 
